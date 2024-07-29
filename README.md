@@ -59,3 +59,5 @@ Watch demo video for a comprehensive overview of the bot in action:
 
 ### Telegram Bot
    I have implemented the same functionalty with telegram bot - [https://t.me/solcapturebot](https://t.me/solcapturebot)
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JefQM-xT3mI/0.jpg)](https://www.youtube.com/watch?v=JefQM-xT3mI)
